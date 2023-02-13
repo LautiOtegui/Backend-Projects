@@ -1,0 +1,20 @@
+[
+  {
+    "date": "27/12/2022",
+    "name": "fran",
+    "email": "email@mail.com",
+    "text": "I'm a message!"
+  },
+  {
+    "date": "7/1/2023 - 20 : 18",
+    "name": "Lulo",
+    "email": "lulo@mail.com",
+    "text": "Soy un mensaje!"
+  },
+  {
+    "date": "7/1/2023 - 20 : 18",
+    "name": "Tito",
+    "email": "tito@mail.com",
+    "text": "Otro mensaje mas!"
+  }
+]
